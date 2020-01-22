@@ -34,10 +34,10 @@
                 </v-expansion-panels>
               </li>
               <li>
-                <span class="handout">Handout:</span> <a class="link" href="/sci_method/notesSciMethod.pdf" target="_blank" rel="noopener"> Text Notes for this Unit</a>, <a class="link" href="/sci_method/Expectations.pdf" target="_blank" rel="noopener">Expectations</a> and <a class="link" href="/sci_method/LatePass1.pdf" target="_blank" rel="noopener">Late Passes</a>
+                <span class="handout">Handout:</span> <a class="link" href="/lsrhs-chemsite/sci_method/notesSciMethod.pdf" target="_blank" rel="noopener"> Text Notes for this Unit</a>, <a class="link" href="/lsrhs-chemsite/sci_method/Expectations.pdf" target="_blank" rel="noopener">Expectations</a> and <a class="link" href="/lsrhs-chemsite/sci_method/LatePass1.pdf" target="_blank" rel="noopener">Late Passes</a>
               </li>
               <li><span class="font-weight-bold">Demo:</span> Gummy Bear Safety</li>
-              <li><span class="handout">Lab: </span> <a class="link" href="/sci_method/Gold_Penny_Experiment.pdf" target="_blank" rel="noopener"> Alchemist's Dream Come True (sort of)</a></li>
+              <li><span class="handout">Lab: </span> <a class="link" href="/lsrhs-chemsite/sci_method/Gold_Penny_Experiment.pdf" target="_blank" rel="noopener"> Alchemist's Dream Come True (sort of)</a></li>
               <li>
                 <v-expansion-panels flat hover focusable>
                   <v-expansion-panel>
